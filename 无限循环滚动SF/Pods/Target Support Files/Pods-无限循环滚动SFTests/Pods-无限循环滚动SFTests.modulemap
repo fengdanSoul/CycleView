@@ -1,0 +1,6 @@
+framework module Pods_______SFTests {
+  umbrella header "Pods-无限循环滚动SFTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_______SF {
+  umbrella header "Pods-无限循环滚动SF-umbrella.h"
+
+  export *
+  module * { export * }
+}
